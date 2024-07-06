@@ -1,0 +1,9 @@
+# cache
+__pycache__/
+.cache
+
+# JSON data
+Files/
+
+# dotenv
+.env
